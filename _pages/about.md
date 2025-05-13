@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Welcome"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am first-year sociology and gerontology Ph.D. student at Purdue University. My research addresses 
+My name is Samuel Nemeth. I study health and aging as a Ph.D. student in the Sociology department at Purdue University. I am a Dean's Graduate Fellowship recipient and a Presidental Excellence Ph.D. Award recipient which both fund my Ph.D. studies.
 
-I recieved my B.A. in Sociology from Purdue in 2023 and my MPH from Rutgers in 2025.
-
-If you’d like to contact me, my email is nemeths@purdue.edu. You can find a copy of my CV here.
+Before beginning the Ph.D., I recieved a Masters Degree in Public Health from the Rutgers School of Public Health as a Jennifer Elliott Population Aging Scholar. I recieved a B.A. in Sociology, with distinction from Purdue University.
