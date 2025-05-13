@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Racial and Ethnic Differences in Community Belonging and its Impact on Cognitive Function in Older Adults"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: #
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://academic.oup.com/psychsocgerontology/article-abstract/80/6/gbaf028/8016079?redirectedFrom=fulltext#google_vignette)'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
