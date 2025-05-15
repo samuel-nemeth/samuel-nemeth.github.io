@@ -11,4 +11,4 @@ My name is Samuel Nemeth. I study health and aging as a Ph.D. student in the Soc
 
 Before beginning the Ph.D., I recieved a Masters Degree in Public Health from the Rutgers School of Public Health as a Jennifer Elliott Population Aging Scholar. I recieved a B.A. in Sociology, with distinction from Purdue University.
 
-[View my CV](cv.pdf) 
+[View my CV](CV.pdf) 
