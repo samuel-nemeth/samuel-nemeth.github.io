@@ -1,5 +1,5 @@
 # About
-This is the source code for my personal website, hosted at [padajar.com](https://padajar.com/). Feel free to make pull requests for content errors or typoes that you find.
+This is the source code for my personal website, hosted at [samuel-nemeth.github.io](https://samuel-nemeth.github.io). Feel free to make pull requests for content errors or typoes that you find.
 
 # Minimal Mistakes
 
