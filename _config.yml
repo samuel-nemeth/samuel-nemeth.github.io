@@ -27,7 +27,7 @@ author:
   pronouns         : "He/Him/His"  
   bio              : "Sociology & Public Health Researcher"
   location         : "West Lafayette"
-  employer         : "Purdue University"
+  employer         : ["Purdue University"](https://www.cla.purdue.edu/academic/sociology/index.html)
   uri              : # URL
   email            : "nemeths@purdue.edu" 
 
