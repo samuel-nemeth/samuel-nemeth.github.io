@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo2.jpeg"
+  avatar           : "Nemeth_Headshot.jpg"
   name             : "Samuel Nemeth"
   pronouns         : "He/Him/His"  
   bio              : "Sociology & Public Health Researcher"
@@ -39,8 +39,8 @@ author:
   orcid            : "https://orcid.org/0009-0007-9090-0115"
   semantic         : # URL
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?sort=pubdate&term=Nemeth+SR&cauthor_id=39953971"
-  researchgate     : # URL
-  scopus           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Samuel-Nemeth"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=59666171100"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
