@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Samuel Nemeth. I study health and aging as a Ph.D. student in the [Sociology department](https://www.cla.purdue.edu/academic/sociology/index.html) at Purdue University. I am a Dean's Graduate Fellowship recipient and a Presidental Excellence Ph.D. Award recipient both of which fund my Ph.D. studies.
+My name is Samuel Nemeth. I study health and aging as a Ph.D. student in the [Sociology department](https://www.cla.purdue.edu/academic/sociology/index.html) at Purdue University. I am a Dean's Graduate Fellowship recipient and a Presidental Excellence Ph.D. Award recipient both of which fund my PhD studies.
 
 I currently affiliated with the [Dunn Lab](https://www.thedunnlab.com) and I am also affiliated with the [Center for Aging and the Life Course](https://www.purdue.edu/aging/).
 
