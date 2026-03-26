@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Samuel (Sam) Nemeth. I am interested in aging and health broadly speaking. Specifically, I am intersted in demography and statistics. I am a first year student in the [PhD in Sociology and Gerontology](https://www.cla.purdue.edu/academic/sociology/index.html) program at [Purdue University](https://www.purdue.edu). I am a [Dean's Graduate Fellowship](https://www.cla.purdue.edu/research/grant-support/grad-student-research-support/deansfellowship.html) recipient and a [Presidental Excellence PhD Award](https://www.purdue.edu/newsroom/purduetoday/2025/Q1/purdue-continues-to-enhance-investment-and-support-for-doctoral-students/) recipient both of which fund my PhD studies.
+My name is Samuel (Sam) Nemeth. I am interested in aging, health, demography, and statistics. I am a first year student in the [PhD in Sociology and Gerontology](https://www.cla.purdue.edu/academic/sociology/index.html) program at [Purdue University](https://www.purdue.edu). I am a [Dean's Graduate Fellowship](https://www.cla.purdue.edu/research/grant-support/grad-student-research-support/deansfellowship.html) recipient and a [Presidental Excellence PhD Award](https://www.purdue.edu/newsroom/purduetoday/2025/Q1/purdue-continues-to-enhance-investment-and-support-for-doctoral-students/) recipient both of which fund my PhD studies.
 
 I am also affiliated with the [Center for Aging and the Life Course](https://www.purdue.edu/aging/).     
 
