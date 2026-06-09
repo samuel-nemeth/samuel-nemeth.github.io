@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-My name is Samuel (Sam) Nemeth. I am interested in aging, health, demography, and statistics. I am a first year student in the [PhD in Sociology and Gerontology](https://www.cla.purdue.edu/academic/sociology/index.html) program at [Purdue University](https://www.purdue.edu). I am a [Dean's Graduate Fellowship](https://www.cla.purdue.edu/research/grant-support/grad-student-research-support/deansfellowship.html) recipient and a [Presidental Excellence PhD Award](https://www.purdue.edu/newsroom/purduetoday/2025/Q1/purdue-continues-to-enhance-investment-and-support-for-doctoral-students/) recipient both of which fund my PhD studies.
+My name is Samuel (Sam) Nemeth. I am a second-year student in the [PhD in Sociology and Gerontology](https://www.cla.purdue.edu/academic/sociology/index.html) program at [Purdue University](https://www.purdue.edu). I am also affiliated with the [Center for Aging and the Life Course](https://www.purdue.edu/aging/). My research interests are broadly in areas of health, aging, and demography, with additional interests in policy and statistics.
 
-I am also affiliated with the [Center for Aging and the Life Course](https://www.purdue.edu/aging/).     
+I am a [Dean's Graduate Fellowship](https://www.cla.purdue.edu/research/grant-support/grad-student-research-support/deansfellowship.html) recipient and a [Presidential Excellence PhD Award](https://www.purdue.edu/newsroom/purduetoday/2025/Q1/purdue-continues-to-enhance-investment-and-support-for-doctoral-students/) recipient both of which support my PhD studies.  
 
-Before beginning the PhD, I recieved a Masters Degree in Public Health with a concentration in population aging, with Delta Omega Honorary Society, from the [Rutgers School of Public Health](https://sph.rutgers.edu) as a [Jennifer Elliott Population Aging Scholar](https://sph.rutgers.edu/academics/degree-programs/master-public-health-mph-degrees/online-master-public-health-population-aging#chapter=pjennifer-elliot-population-aging-scholarship-p-4047). I recieved a BA in Sociology, and a minor in Biological Sciences, _with distinction_ from [Purdue University](https://www.purdue.edu).
+Before beginning the PhD, I recieved a Master of Public Health degree with a concentration in population aging (Delta Omega Honorary Society) from the [Rutgers School of Public Health](https://sph.rutgers.edu) as a [Jennifer Elliott Population Aging Scholar](https://sph.rutgers.edu/academics/degree-programs/master-public-health-mph-degrees/online-master-public-health-population-aging#chapter=pjennifer-elliot-population-aging-scholarship-p-4047). I recieved a BA in Sociology with a minor in Biological Sciences, _with distinction_ from [Purdue University](https://www.purdue.edu).
 
-[View my CV](CV.pdf) 
+For more complete information, please [View my CV](CV.pdf) 
